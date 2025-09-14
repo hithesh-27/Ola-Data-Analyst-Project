@@ -75,8 +75,20 @@ Created pivot tables for quick checks and summaries.
 
 Saved the final dataset for Power BI import.
 
+3. SQL Analysis (MySQL Workbench)
 
-3. Data Visualization (Power BI)
+Used MySQL Workbench to query the Ola dataset and extract key insights. Wrote SQL queries to:
+
+Identify peak booking hours and busiest locations.
+
+Calculate average fares by ride category.
+
+Analyze revenue contribution by payment method.
+
+Segment rides into short, medium, and long distances.
+
+
+4. Data Visualization (Power BI)
 
 Imported the Excel dataset into Power BI.
 
@@ -124,6 +136,8 @@ Expand dataset for multi-city comparisons.
 Perform customer segmentation for targeted offers.
 
 ScreenShots :
-
-
-
+1. https://github.com/hithesh-27/Ola-Data-Analyst-Project/blob/main/Screenshot%202025-09-14%20182251.png
+2. https://github.com/hithesh-27/Ola-Data-Analyst-Project/blob/main/Screenshot%202025-09-14%20182303.png
+3. https://github.com/hithesh-27/Ola-Data-Analyst-Project/blob/main/Screenshot%202025-09-14%20182317.png
+4. https://github.com/hithesh-27/Ola-Data-Analyst-Project/blob/main/Screenshot%202025-09-14%20182330.png
+5. https://github.com/hithesh-27/Ola-Data-Analyst-Project/blob/main/Screenshot%202025-09-14%20182341.png
